@@ -1,0 +1,26 @@
+.card-picture {
+  border-radius: 50%;
+  width: 6.25rem;
+  height: 6.25rem;
+  cursor: pointer;
+}
+
+.material-icons.md-18 {
+  font-size: 18px;
+  cursor: pointer;
+  line-height: 24px;
+  padding-bottom: 0px;
+}
+
+div.card {
+  margin: 10px 10px;
+}
+
+img.card-img-top {
+  display: block;
+  margin: 0 auto;
+}
+
+.card-name-and-heart {
+  flex-grow: 1;
+}
